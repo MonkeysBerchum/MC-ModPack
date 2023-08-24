@@ -7,6 +7,10 @@ Zum Runterladen auf die grüne Fläche mit Code klicken und dann als ZIP runterl
 
 Gebrauchsanweisung zur Modinstallation.
 
+
+0. https://www.java.com/en/download/ Java runterladen und installieren
+
+
 1. Minecraft installieren wenn noch nicht geschehen :)
 
 
