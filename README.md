@@ -1,6 +1,10 @@
 # MC-ModPack
 The Minecraft ModPack for MonkeysBerchum
 
+
+Zum Runterladen auf die grüne Fläche mit Code klicken und dann als ZIP runterladen
+
+
 Gebrauchsanweisung zur Modinstallation.
 
 1. Minecraft installieren wenn noch nicht geschehen :)
