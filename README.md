@@ -30,7 +30,7 @@ Gebrauchsanweisung zur Modinstallation.
 
   4.1 Forge starten
   
-  4.2 Wenn im Hauptmenu von Minecraft wieder schließen
+  4.2 Wenn im Hauptmenu von Minecraft wieder schließen 
 
 
 5. "Windows + R" drücken
