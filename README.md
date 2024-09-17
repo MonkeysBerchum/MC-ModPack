@@ -15,13 +15,13 @@ Gebrauchsanweisung zur Modinstallation.
 
 
 
-2. Die Minecraft version 1.19.2 starten
+2. Die Minecraft version 1.20.1 starten
 
    2.1 Wenn im Hauptmenu von Minecraft wieder schließen
    
 
 
-3. Die Datei "forge-1.19.2-43.2.21-installer" ausführen
+3. Die Datei "forge-1.20.1-47.3.0-installer" ausführen
 
    3.1 Client installieren und warten
 
